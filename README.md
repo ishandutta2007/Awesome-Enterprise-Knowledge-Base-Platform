@@ -133,11 +133,11 @@ Commercial, cloud-hosted Enterprise Knowledge Base platforms sorted in descendin
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven Knowledge Base platforms sorted in **descending order by GitHub star count** ⭐. Each badge links directly to that repository's stargazers page 🌟.
+Self-hosted, community-driven Knowledge Base platforms sorted in **descending order by GitHub Stars_Count** ⭐. Each badge links directly to that repository's stargazers page 🌟.
 
 ### ⭐ Open-Source Platforms Ranked by Stars
 
-| Project 📦 | GitHub Stars 🌟 | Tech Stack 💻 | License 📜 | Key Differentiator 🚀 |
+| Project 📦 | GitHub_Stars 🌟 | Tech Stack 💻 | License 📜 | Key Differentiator 🚀 |
 |---|---|---|---|---|
 | **[AppFlowy](#appflowy)** | [![AppFlowy Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | Flutter / Rust 🦀 | AGPL-3.0 | Modern privacy-first Notion alternative with modular wiki tables 📑 |
 | **[AFFiNE](#affine)** | [![AFFiNE Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) | TypeScript / Rust 🎨 | MIT | Hybrid canvas & block-based doc platform for visual knowledge 🖼️ |
